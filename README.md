@@ -41,7 +41,7 @@ This repository contains **two complete face recognition pipelines**, showing th
 
 ---
 
-## 🎯 Interview Summary
+## 🎯 Summary
 
 “This project demonstrates the transition from classical face recognition to modern deep learning–based pipelines using FaceNet embeddings and SVM classification.”
 
