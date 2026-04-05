@@ -48,4 +48,4 @@ This repository contains **two complete face recognition pipelines**, showing th
 ---
 
 ## 📌 Author
-**Amrit Kumar Giri**  
+**Sanjay Patel**  
